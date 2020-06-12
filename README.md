@@ -11,7 +11,7 @@
 
 2. Also the main aim of this repo is to learn the web development and host a web portal for a Grading systems 
   Please find reference for a grading system in a console format in the repo 
-  [Console Grading System](https://github.com/tareq97/assignment/blob/master/GradingSystem/GradingSystem.java)
+  [Console Grading System](https://github.com/qerat97/git-projects/blob/master/Console-GradingSystem/GradingSystem.java)
   
   
   Outcome of learning from the projects:
