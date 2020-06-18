@@ -2,6 +2,8 @@
 # Backend Resources
 ### [Node JS](https://nodejs.org/en/docs/)
 
+For installing mongoose with nodejs use this command - npm install --save express body-parser mongoose
+
 Frameworks : [ExpressJs](https://expressjs.com/), [Koa](https://koajs.com/), [Sails](https://sailsjs.com/)
 
 #### Resources
